@@ -1,0 +1,13 @@
+.nav {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #acacee;
+  padding: 10px 40px;
+  box-sizing: border-box;
+  border-top: 3px solid rgba(0, 0, 0, 0.4);
+}
+.nav__ul {
+  display: flex;
+  justify-content: space-between;
+}
