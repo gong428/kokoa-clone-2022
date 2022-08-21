@@ -7,11 +7,13 @@
 }
 .wellcom-header__title {
   margin-bottom: 40px;
+  font-weight: 700;
 }
 .wellcom-header__text {
   width: 40%;
   opacity: 0.5;
   margin-bottom: 40px;
+  font-weight: 700;
 }
 #login-form {
   display: flex;
