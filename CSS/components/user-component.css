@@ -1,0 +1,19 @@
+.user-component,
+.user-component__column {
+  display: flex;
+  align-items: center;
+}
+.user-component_column__avatar {
+  width: 70px;
+  height: 70px;
+  border-radius: 20px;
+}
+.user-component__column__text {
+  margin-left: 20px;
+  font-size: 18px;
+}
+.user-component__column__feeling {
+  font-size: 15px;
+  margin-top: 10px;
+  color: rgba(0, 0, 0, 0.5);
+}
