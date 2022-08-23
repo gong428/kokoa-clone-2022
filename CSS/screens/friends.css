@@ -2,7 +2,7 @@
   text-align: center;
   display: block;
   background-color: rgba(0, 0, 0, 0.2);
-  margin: 15px 0px;
+  margin: -5px 0px 15px 0px;
   padding: 10px 0px;
 }
 #friends-display-link i {

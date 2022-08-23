@@ -6,6 +6,7 @@
 @import "components/screen-header.css";
 @import "components/user-component.css";
 @import "components/variables.css";
+@import "components/badge.css";
 /*screens*/
 @import "screens/login.css";
 @import "screens/friends.css";
@@ -13,4 +14,7 @@ body {
   color: #2e363e;
   background-color: rgb(214, 230, 245);
   font-family: "Silkscreen", cursive;
+}
+.main-screen {
+  padding: 0px var(--horizontal-space);
 }

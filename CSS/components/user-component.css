@@ -22,6 +22,8 @@
   border-radius: 20px;
 }
 .user-component__title {
+  color: black;
+  font-size: 20px;
 }
 .user-component__text {
   margin-left: 20px;
@@ -36,6 +38,13 @@
   font-weight: 400;
 }
 
-.user-component:last-child {
+.user-component__column:last-child {
   color: rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.user-component__time {
+  display: block;
+  margin-bottom: 10px;
 }
