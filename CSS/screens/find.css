@@ -25,3 +25,19 @@
   margin-top: 10px;
   font-size: 10px;
 }
+.recommended-friends {
+  padding: 15px 0px;
+  border-bottom: var(--border-line);
+}
+
+.recommended-friends__title {
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.6);
+}
+.recommended-friends span {
+  margin: 90px 0px;
+  display: block;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 12px;
+}
