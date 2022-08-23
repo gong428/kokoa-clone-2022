@@ -1,0 +1,8 @@
+.icon {
+  position: relative;
+}
+.find__dot {
+  position: absolute;
+  top: -15px;
+  right: -5px;
+}

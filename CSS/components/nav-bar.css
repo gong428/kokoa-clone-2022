@@ -20,10 +20,6 @@
   right: -8px;
 }
 .nav__dot {
-  background-color: tomato;
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
   position: absolute;
   top: -15px;
   right: -5px;
