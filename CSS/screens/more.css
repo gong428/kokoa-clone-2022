@@ -1,0 +1,10 @@
+.more-screen .icon-raw {
+  margin-top: 15px;
+  padding: var(--horizontal-space);
+}
+
+.more-suggestions {
+  margin-top: 10px;
+  padding: var(--horizontal-space);
+  margin-bottom: 15px;
+}

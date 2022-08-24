@@ -48,3 +48,22 @@
   display: block;
   margin-bottom: 10px;
 }
+.user-component__Exclamation-mark {
+  text-align: center;
+  font-size: 12px;
+  background-color: white;
+  width: 13px;
+  height: 13px;
+  color: tomato;
+  border-radius: 50%;
+  border: 2px solid tomato;
+}
+
+#more__user-componet__Exclamation-mark {
+  display: flex;
+  align-items: center;
+}
+
+.user-component__Exclamation-mark {
+  margin: 10px 0px 0px 5px;
+}

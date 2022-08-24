@@ -8,11 +8,13 @@
 @import "components/variables.css";
 @import "components/badge.css";
 @import "components/dot.css";
+@import "components/icon-raw.css";
 
 /*screens*/
 @import "screens/login.css";
 @import "screens/friends.css";
 @import "screens/find.css";
+@import "screens/more.css";
 body {
   color: #2e363e;
   background-color: rgb(214, 230, 245);

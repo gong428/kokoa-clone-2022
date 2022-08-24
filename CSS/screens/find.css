@@ -6,25 +6,7 @@
   top: -15px;
   right: -5px;
 }
-.find-icons {
-  padding: 0px 15px;
-  display: flex;
-  justify-content: space-between;
-  border-bottom: var(--border-line);
-}
-.find-icons__icon {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: var(--horizontal-space) 0px;
-}
-.find-icons__icon i {
-  font-size: 25px;
-}
-.find-icons__icon span {
-  margin-top: 10px;
-  font-size: 10px;
-}
+
 .recommended-friends {
   padding: 15px 0px;
   border-bottom: var(--border-line);
