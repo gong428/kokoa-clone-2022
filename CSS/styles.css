@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap");
 @import "reset.css";
+
 /*components*/
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
@@ -9,6 +10,7 @@
 @import "components/badge.css";
 @import "components/dot.css";
 @import "components/icon-raw.css";
+@import "components/alt-screen-header.css";
 
 /*screens*/
 @import "screens/login.css";
@@ -22,4 +24,8 @@ body {
 }
 .main-screen {
   padding: 0px var(--horizontal-space);
+}
+
+.more-screen .user-component .user-component__column {
+  color: black;
 }
